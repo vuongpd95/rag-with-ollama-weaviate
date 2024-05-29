@@ -4,13 +4,13 @@ Làm tuần tự (1) và (2). (3) và (4) có thể chọn bất kỳ 1 cái đ�
 
 Đáp án cho (2) + (4) là code của repo này, xem phần Solution ở dưới
 
-1. Làm quen với Generative AI model
+(1) Làm quen với Generative AI model
 - Tự đọc hiểu Ollama là gì?
 - Cài đặt Ollama: https://ollama.com/
 - Pull phi bằng Ollama https://ollama.com/library/phi
 - Thực hành Prompt model phi sử dụng Ollama https://ollama.com/library/phi
 
-3. Làm quen với Docker & Docker Compose
+(2) Làm quen với Docker & Docker Compose
 - Tự đọc hiểu docker & docker compose là gì?
 - Cài đặt docker & docker compose https://docs.docker.com/engine/install/debian/
 - Tạo docker-compose file với 2 services
@@ -19,14 +19,14 @@ Làm tuần tự (1) và (2). (3) và (4) có thể chọn bất kỳ 1 cái đ�
 - Pull phi bằng cách /bin/bash vào ollama container
 - Thực hành Prompt phi qua giao diện open webui
 
-5. Làm quen với GCP Agent Builder
+(3) Làm quen với GCP Agent Builder
 - Tự đọc hiểu Agent Builder là gì?
 - Đăng ký tài khoản GCP (cần debit/credit card)
 - Tạo Agent đầu tiên ở https://console.cloud.google.com/gen-app-builder/engines (1000$ free Agent Builder credit & 300$ free GCP credit)
 - Sử dụng datastore để lưu + index FAQ về bản thân
 - Xác thực datastore chạy được bằng cách test trên Agent Preview Chat
 
-7. Tìm hiểu cách RAG hoạt động
+(4) Tìm hiểu cách RAG hoạt động
 - Đọc & hiểu
     - RAG là gì?
     - Vector DB là gì? Lưu cái gì và thuật toán search Vector DB được thực thi như thế nào?
